@@ -1,5 +1,7 @@
 # Data Scientist & Analyst
 
+---
+
 ## Showcase
 
 <table>
@@ -33,8 +35,8 @@
                 <br><br>
                 <a href="" target="_blank">View full viz</a>
             </p>
-            <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
-                Pop Culture
+            <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                Sports
             </span>
         </td>
         <td width="65%">
@@ -51,14 +53,15 @@
                 <br><br>
                 <a href="" target="_blank">View full viz</a>
             </p>
-            <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
-                Pop Culture
+            <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                Sports
             </span>
         </td>
         <td width="65%">
             <div class="slider" style="margin:auto; text-align:center;">
-                <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
-                <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
+                <img src="img/dataviz_2_1.png" class="slide" style="display:block; width:100%; height:auto;">
+                <img src="img/dataviz_2_2.png" class="slide" style="display:none; width:100%; height:auto;">
+                <img src="img/dataviz_2_3.png" class="slide" style="display:none; width:100%; height:auto;">
                 <br>
                 <button class="prev slider-btn">◀</button>
                 <button class="next slider-btn">▶</button>
@@ -73,8 +76,8 @@
                 <br><br>
                 <a href="" target="_blank">View full viz</a>
             </p>
-            <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
-                Pop Culture
+            <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                Sports
             </span>
         </td>
         <td width="65%">
@@ -85,6 +88,7 @@
     </tr>
 </table>
 
+---
 
 <script>
 document.querySelectorAll('.slider').forEach(slider => {
