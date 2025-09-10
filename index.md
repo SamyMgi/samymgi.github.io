@@ -4,7 +4,18 @@
 
 <table>
     <tr>
-        <td colspan="2" width="50%">
+        <td style="text-align:center; vertical-align:middle; width:35%;">
+            <h3>The Big 3 - Ratings Anime Breakdown</h3>
+            <p>
+                Description.
+                <br><br>
+                <a href="" target="_blank">View full viz</a>
+            </p>
+            <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                Pop Culture
+            </span>
+        </td>
+        <td width="65%">
             <div class="slider" style="margin:auto; text-align:center;">
                 <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
                 <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
@@ -13,7 +24,9 @@
                 <button class="slider-btn" onclick="nextSlide()">▶</button>
             </div>
         </td>
-        <td style="text-align:center; vertical-align:middle; width:50%;">
+    </tr>
+    <tr>
+        <td style="text-align:center; vertical-align:middle; width:35%;">
             <h3>The Big 3 - Ratings Anime Breakdown</h3>
             <p>
                 Description.
@@ -23,10 +36,16 @@
             <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                 Pop Culture
             </span>
+        </td>
+        <td width="65%">
+            <div class="slider" style="margin:auto; text-align:center;">
+                <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
+                <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
+            </div>
         </td>
     </tr>
     <tr>
-        <td style="text-align:center; vertical-align:middle; width:50%;">
+        <td style="text-align:center; vertical-align:middle; width:35%;">
             <h3>The Big 3 - Ratings Anime Breakdown</h3>
             <p>
                 Description.
@@ -37,8 +56,33 @@
                 Pop Culture
             </span>
         </td>
-        <td colspan="2" width="50%">
-            <img src="img/dataviz_4_1.png" width="100%">
+        <td width="65%">
+            <div class="slider" style="margin:auto; text-align:center;">
+                <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
+                <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
+                <br>
+                <button class="slider-btn" onclick="prevSlide()">◀</button>
+                <button class="slider-btn" onclick="nextSlide()">▶</button>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center; vertical-align:middle; width:35%;">
+            <h3>The Big 3 - Ratings Anime Breakdown</h3>
+            <p>
+                Description.
+                <br><br>
+                <a href="" target="_blank">View full viz</a>
+            </p>
+            <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                Pop Culture
+            </span>
+        </td>
+        <td width="65%">
+            <div class="slider" style="margin:auto; text-align:center;">
+                <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
+                <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
+            </div>
         </td>
     </tr>
 </table>
@@ -65,7 +109,7 @@ function prevSlide(){
 
 <style>
 .slider-btn {
-  background-color: #8e44ad;
+  background-color: #407ab4;
   color: white;
   border: none;
   border-radius: 6px;
@@ -77,7 +121,7 @@ function prevSlide(){
 }
 
 .slider-btn:hover {
-  background-color: #732d91;
+  background-color: #2a6495;
   transform: scale(1.1);
 }
 
