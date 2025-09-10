@@ -59,9 +59,9 @@
         </td>
         <td width="65%">
             <div class="slider" style="margin:auto; text-align:center;">
-                <img src="img/dataviz_2_1.png" class="slide" style="display:block; width:100%; height:auto;">
-                <img src="img/dataviz_2_2.png" class="slide" style="display:none; width:100%; height:auto;">
-                <img src="img/dataviz_2_3.png" class="slide" style="display:none; width:100%; height:auto;">
+                <img src="img/dataviz_2_1.PNG" class="slide" style="display:block; width:100%; height:auto;">
+                <img src="img/dataviz_2_2.PNG" class="slide" style="display:none; width:100%; height:auto;">
+                <img src="img/dataviz_2_3.PNG" class="slide" style="display:none; width:100%; height:auto;">
                 <br>
                 <button class="prev slider-btn">◀</button>
                 <button class="next slider-btn">▶</button>
