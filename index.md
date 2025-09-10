@@ -38,9 +38,8 @@
             </span>
         </td>
         <td width="65%">
-            <div class="slider" style="margin:auto; text-align:center;">
-                <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
-                <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
+            <div style="margin:auto; text-align:center;">
+                <img src="img/dataviz_3.png" style="display:block; width:100%; height:auto;">
             </div>
         </td>
     </tr>
@@ -79,8 +78,8 @@
             </span>
         </td>
         <td width="65%">
-            <div class="slider" style="margin:auto; text-align:center;">
-                <img src="img/dataviz_1.png" class="slide" style="display:block; width:100%; height:auto;">
+            <div style="margin:auto; text-align:center;">
+                <img src="img/dataviz_1.png" style="display:block; width:100%; height:auto;">
             </div>
         </td>
     </tr>
