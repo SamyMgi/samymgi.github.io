@@ -20,8 +20,8 @@
                 <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
                 <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
                 <br>
-                <button class="slider-btn" onclick="prevSlide()">◀</button>
-                <button class="slider-btn" onclick="nextSlide()">▶</button>
+                <button class="prev slider-btn">◀</button>
+                <button class="next slider-btn">▶</button>
             </div>
         </td>
     </tr>
@@ -61,8 +61,8 @@
                 <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
                 <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
                 <br>
-                <button class="slider-btn" onclick="prevSlide()">◀</button>
-                <button class="slider-btn" onclick="nextSlide()">▶</button>
+                <button class="prev slider-btn">◀</button>
+                <button class="next slider-btn">▶</button>
             </div>
         </td>
     </tr>
@@ -89,23 +89,28 @@
 
 
 <script>
-let current = 0;
-const slides = document.querySelectorAll('.slide');
+document.querySelectorAll('.slider').forEach(slider => {
+  const slides = slider.querySelectorAll('.slide');
+  let current = 0;
 
-function showSlide(index){
-  slides.forEach((s,i)=> s.style.display = (i===index)?'block':'none');
-}
+  const showSlide = (index) => {
+    slides.forEach((s, i) => s.style.display = (i === index ? 'block' : 'none'));
+  };
 
-function nextSlide(){
-  current = (current + 1) % slides.length;
+  slider.querySelector('.next').addEventListener('click', () => {
+    current = (current + 1) % slides.length;
+    showSlide(current);
+  });
+
+  slider.querySelector('.prev').addEventListener('click', () => {
+    current = (current - 1 + slides.length) % slides.length;
+    showSlide(current);
+  });
+
   showSlide(current);
-}
-
-function prevSlide(){
-  current = (current - 1 + slides.length) % slides.length;
-  showSlide(current);
-}
+});
 </script>
+
 
 <style>
 .slider-btn {
