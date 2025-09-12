@@ -1,8 +1,12 @@
-# Data Scientist & Analyst
+## About me
 
 ---
 
+Text about me...
+
 ## Showcase
+
+---
 
 <table>
     <tr>
@@ -88,7 +92,11 @@
     </tr>
 </table>
 
+## Contact
+
 ---
+
+Contact links...
 
 <script>
 document.querySelectorAll('.slider').forEach(slider => {
