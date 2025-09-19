@@ -15,9 +15,11 @@ Text about me...
         <td style="text-align:center; vertical-align:middle; width:35%;">
             <h3>The Big 3 - Ratings Anime Breakdown</h3>
             <p>
-                Description.
+                In the anime community, "The Big 3" refers to the three iconic series of the 2000s: One Piece, Naruto and Bleach.
+                <br>
+                The dashboard explores MyAnimeList episode ratings across time, comparing yearly averages, arcs, fillers, top-rated episodes and more...
                 <br><br>
-                <a href="" target="_blank">View full viz</a>
+                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheBig3-AnimeRatingsBreakdown/TheBig3" target="_blank">View full viz</a>
             </p>
             <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                 Pop Culture
@@ -37,9 +39,11 @@ Text about me...
         <td style="text-align:center; vertical-align:middle; width:35%;">
             <h3>UFC Expansion & Potential - Dashboard</h3>
             <p>
-                Description.
+                Since its creation in 1993, the UFC has gradually expanded its presence across the world, going from 5 countries involved in 2002 to 29 by 2025.
+                <br>
+                This dashboard highlights the current state of UFC's international expansion and explores potential growth opportunities based on its active fighter roster.
                 <br><br>
-                <a href="" target="_blank">View full viz</a>
+                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/UFCExpansionPotential-Dashboard/UFCExpansionPotential" target="_blank">View full viz</a>
             </p>
             <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                 Sports
@@ -55,9 +59,9 @@ Text about me...
         <td style="text-align:center; vertical-align:middle; width:35%;">
             <h3>The Diamond's Path - Tribute to Dustin Poirier</h3>
             <p>
-                Description.
+                Follow Dustin Poirier’s journey through the MMA world: key fights, milestones, and his impact both inside and outside the octagon.
                 <br><br>
-                <a href="" target="_blank">View full viz</a>
+                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheDiamondsPath-TributetoDustinPoirier/TheDiamondsPath" target="_blank">View full viz</a>
             </p>
             <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                 Sports
