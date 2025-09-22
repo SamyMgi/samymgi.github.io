@@ -13,12 +13,12 @@ Text about me...
 <table>
     <tr>
         <td style="vertical-align:middle; width:35%;">
-            <br>
             <div style="text-align:center;">
                 <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                     Pop Culture
                 </span>
             </div>
+            <br>
             <h3 style="text-align:center;">The Big 3 - Ratings Anime Breakdown</h3>
             <p>
                 In the anime community, "The Big 3" refers to the three iconic series of the 2000s: One Piece, Naruto and Bleach.
@@ -41,18 +41,21 @@ Text about me...
         </td>
     </tr>
     <tr>
-        <td style="text-align:center; vertical-align:middle; width:35%;">
-            <h3>UFC Expansion & Potential - Dashboard</h3>
+        <td style="vertical-align:middle; width:35%;">
+            <div style="text-align:center;">
+                <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                    Sports
+                </span>
+            </div>
+            <h3 style="text-align:center;">UFC Expansion & Potential - Dashboard</h3>
             <p>
                 Since its creation in 1993, the UFC has gradually expanded its presence across the world, going from 5 countries involved in 2002 to 29 by 2025.
                 <br>
                 This dashboard highlights the current state of UFC's international expansion and explores potential growth opportunities based on its active fighter roster.
-                <br><br>
-                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/UFCExpansionPotential-Dashboard/UFCExpansionPotential" target="_blank">View full viz</a>
             </p>
-            <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
-                Sports
-            </span>
+            <div style="text-align:center;">
+                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/UFCExpansionPotential-Dashboard/UFCExpansionPotential" target="_blank">View full viz</a>
+            </div>
         </td>
         <td width="65%">
             <div style="margin:auto; text-align:center;">
