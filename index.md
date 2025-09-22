@@ -20,7 +20,7 @@ Text about me...
             </div>
             <br>
             <h3 style="text-align:center;">The Big 3 - Ratings Anime Breakdown</h3>
-            <p>
+            <p class="justified">
                 In the anime community, "The Big 3" refers to the three iconic series of the 2000s: One Piece, Naruto and Bleach.
                 <br>
                 The dashboard explores MyAnimeList episode ratings across time, comparing yearly averages, arcs, fillers, top-rated episodes and more...
@@ -48,7 +48,7 @@ Text about me...
                 </span>
             </div>
             <h3 style="text-align:center;">UFC Expansion & Potential - Dashboard</h3>
-            <p>
+            <p class="justified">
                 Since its creation in 1993, the UFC has gradually expanded its presence across the world, going from 5 countries involved in 2002 to 29 by 2025.
                 <br>
                 This dashboard highlights the current state of UFC's international expansion and explores potential growth opportunities based on its active fighter roster.
@@ -66,7 +66,7 @@ Text about me...
     <tr>
         <td style="text-align:center; vertical-align:middle; width:35%;">
             <h3>The Diamond's Path - Tribute to Dustin Poirier</h3>
-            <p>
+            <p class="justified">
                 Follow Dustin Poirier’s journey through the MMA world: key fights, milestones, and his impact both inside and outside the octagon.
                 <br><br>
                 <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheDiamondsPath-TributetoDustinPoirier/TheDiamondsPath" target="_blank">View full viz</a>
@@ -139,6 +139,11 @@ document.querySelectorAll('.slider').forEach(slider => {
 
 
 <style>
+.justified {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .slider-btn {
   background-color: #407ab4;
   color: white;
