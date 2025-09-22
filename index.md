@@ -12,18 +12,23 @@ Text about me...
 
 <table>
     <tr>
-        <td style="text-align:center; vertical-align:middle; width:35%;">
-            <h3>The Big 3 - Ratings Anime Breakdown</h3>
+        <td style="vertical-align:middle; width:35%;">
+            <br>
+            <div style="text-align:center;">
+                <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                    Pop Culture
+                </span>
+            </div>
+            <h3 style="text-align:center;">The Big 3 - Ratings Anime Breakdown</h3>
             <p>
                 In the anime community, "The Big 3" refers to the three iconic series of the 2000s: One Piece, Naruto and Bleach.
                 <br>
                 The dashboard explores MyAnimeList episode ratings across time, comparing yearly averages, arcs, fillers, top-rated episodes and more...
-                <br><br>
-                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheBig3-AnimeRatingsBreakdown/TheBig3" target="_blank">View full viz</a>
+                <br>
             </p>
-            <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
-                Pop Culture
-            </span>
+            <div style="text-align:center;">
+                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheBig3-AnimeRatingsBreakdown/TheBig3" target="_blank">View full viz</a>
+            </div>
         </td>
         <td width="65%">
             <div class="slider" style="margin:auto; text-align:center;">
