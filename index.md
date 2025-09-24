@@ -12,7 +12,7 @@ Text about me...
 
 <table>
     <tr>
-        <td style="vertical-align:middle; width:35%;">
+        <td style="vertical-align:middle;">
             <div style="text-align:center;">
                 <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                     Pop Culture
@@ -20,6 +20,13 @@ Text about me...
             </div>
             <br>
             <h3 style="text-align:center;">The Big 3 - Ratings Anime Breakdown</h3>
+            <div class="slider" style="margin:auto; text-align:center;">
+                <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
+                <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
+                <br>
+                <button class="prev slider-btn">◀</button>
+                <button class="next slider-btn">▶</button>
+            </div>
             <p class="justified">
                 In the anime community, "The Big 3" refers to the three iconic series of the 2000s: One Piece, Naruto and Bleach.
                 <br>
@@ -30,24 +37,18 @@ Text about me...
                 <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheBig3-AnimeRatingsBreakdown/TheBig3" target="_blank">View full viz</a>
             </div>
         </td>
-        <td width="65%">
-            <div class="slider" style="margin:auto; text-align:center;">
-                <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
-                <img src="img/dataviz_4_2.png" class="slide" style="display:none; width:100%; height:auto;">
-                <br>
-                <button class="prev slider-btn">◀</button>
-                <button class="next slider-btn">▶</button>
-            </div>
-        </td>
     </tr>
     <tr>
-        <td style="vertical-align:middle; width:35%;">
+        <td style="vertical-align:middle;">
             <div style="text-align:center;">
                 <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                     Sports
                 </span>
             </div>
             <h3 style="text-align:center;">UFC Expansion & Potential - Dashboard</h3>
+            <div style="margin:auto; text-align:center;">
+                <img src="img/dataviz_3.png" style="display:block; width:100%; height:auto;">
+            </div>
             <p class="justified">
                 Since its creation in 1993, the UFC has gradually expanded its presence across the world, going from 5 countries involved in 2002 to 29 by 2025.
                 <br>
@@ -57,14 +58,9 @@ Text about me...
                 <a href="https://public.tableau.com/app/profile/samy.m6642/viz/UFCExpansionPotential-Dashboard/UFCExpansionPotential" target="_blank">View full viz</a>
             </div>
         </td>
-        <td width="65%">
-            <div style="margin:auto; text-align:center;">
-                <img src="img/dataviz_3.png" style="display:block; width:100%; height:auto;">
-            </div>
-        </td>
     </tr>
     <tr>
-        <td style="text-align:center; vertical-align:middle; width:35%;">
+        <td style="text-align:center; vertical-align:middle;">
             <h3>The Diamond's Path - Tribute to Dustin Poirier</h3>
             <p class="justified">
                 Follow Dustin Poirier’s journey through the MMA world: key fights, milestones, and his impact both inside and outside the octagon.
@@ -74,8 +70,6 @@ Text about me...
             <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                 Sports
             </span>
-        </td>
-        <td width="65%">
             <div class="slider" style="margin:auto; text-align:center;">
                 <img src="img/dataviz_2_1.PNG" class="slide" style="display:block; width:100%; height:auto;">
                 <img src="img/dataviz_2_2.PNG" class="slide" style="display:none; width:100%; height:auto;">
@@ -83,24 +77,6 @@ Text about me...
                 <br>
                 <button class="prev slider-btn">◀</button>
                 <button class="next slider-btn">▶</button>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align:center; vertical-align:middle; width:35%;">
-            <h3>2025 NBA Finals - Game Flow Dashboard</h3>
-            <p>
-                Description.
-                <br><br>
-                <a href="" target="_blank">View full viz</a>
-            </p>
-            <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
-                Sports
-            </span>
-        </td>
-        <td width="65%">
-            <div style="margin:auto; text-align:center;">
-                <img src="img/dataviz_1.png" style="display:block; width:100%; height:auto;">
             </div>
         </td>
     </tr>
