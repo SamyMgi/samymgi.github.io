@@ -18,7 +18,6 @@ Text about me...
                     Pop Culture
                 </span>
             </div>
-            <br>
             <h3 style="text-align:center;">The Big 3 - Ratings Anime Breakdown</h3>
             <div class="slider" style="margin:auto; text-align:center;">
                 <img src="img/dataviz_4_1.png" class="slide" style="display:block; width:100%; height:auto;">
@@ -39,6 +38,7 @@ Text about me...
         </td>
     </tr>
     <tr>
+        <br>
         <td style="vertical-align:middle;">
             <div style="text-align:center;">
                 <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
@@ -49,6 +49,7 @@ Text about me...
             <div style="margin:auto; text-align:center;">
                 <img src="img/dataviz_3.png" style="display:block; width:100%; height:auto;">
             </div>
+            <br>
             <p class="justified">
                 Since its creation in 1993, the UFC has gradually expanded its presence across the world, going from 5 countries involved in 2002 to 29 by 2025.
                 <br>
@@ -60,16 +61,14 @@ Text about me...
         </td>
     </tr>
     <tr>
-        <td style="text-align:center; vertical-align:middle;">
-            <h3>The Diamond's Path - Tribute to Dustin Poirier</h3>
-            <p class="justified">
-                Follow Dustin Poirier’s journey through the MMA world: key fights, milestones, and his impact both inside and outside the octagon.
-                <br><br>
-                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheDiamondsPath-TributetoDustinPoirier/TheDiamondsPath" target="_blank">View full viz</a>
-            </p>
-            <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
-                Sports
-            </span>
+        <br>
+        <td style="vertical-align:middle;">
+            <div style="text-align:center;">
+                <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                    Sports
+                </span>
+            </div>
+            <h3 style="text-align:center;">The Diamond's Path - Tribute to Dustin Poirier</h3>
             <div class="slider" style="margin:auto; text-align:center;">
                 <img src="img/dataviz_2_1.PNG" class="slide" style="display:block; width:100%; height:auto;">
                 <img src="img/dataviz_2_2.PNG" class="slide" style="display:none; width:100%; height:auto;">
@@ -77,6 +76,13 @@ Text about me...
                 <br>
                 <button class="prev slider-btn">◀</button>
                 <button class="next slider-btn">▶</button>
+            </div>
+            <br>
+            <p class="justified">
+                Follow Dustin Poirier’s journey through the MMA world: key fights, milestones, and his impact both inside and outside the octagon.
+            </p>
+            <div style="text-align:center;">
+                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheDiamondsPath-TributetoDustinPoirier/TheDiamondsPath" target="_blank">View full viz</a>
             </div>
         </td>
     </tr>
