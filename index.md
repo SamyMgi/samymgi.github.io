@@ -8,7 +8,7 @@ Text about me...
 
 ## Showcase
 
----
+<hr style="height: 1px; background-color: #407ab4;">
 
 <table>
     <tr>
@@ -38,8 +38,8 @@ Text about me...
         </td>
     </tr>
     <tr>
-        <br>
         <td style="vertical-align:middle;">
+            <br>
             <div style="text-align:center;">
                 <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                     Sports
@@ -61,8 +61,8 @@ Text about me...
         </td>
     </tr>
     <tr>
-        <br>
         <td style="vertical-align:middle;">
+            <br>
             <div style="text-align:center;">
                 <span style="background-color:#e67e22; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                     Sports
