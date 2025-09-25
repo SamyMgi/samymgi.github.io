@@ -1,20 +1,16 @@
-# Samy M
+# Overview
 
 ## About me
-
-<hr style="height: 1px; background-color: black;">
 
 Text about me...
 
 ## Showcase
 
-<hr style="height: 1px; background-color: black;">
-
 <table>
     <tr>
         <td style="vertical-align:middle;">
             <div style="text-align:center;">
-                <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:16px;">
+                <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
                     Pop Culture
                 </span>
             </div>
@@ -33,7 +29,8 @@ Text about me...
                 <br>
             </p>
             <div style="text-align:center;">
-                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheBig3-AnimeRatingsBreakdown/TheBig3" target="_blank">View full viz</a>
+                <button class="slider-btn">+</button>
+                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheBig3-AnimeRatingsBreakdown/TheBig3" class="slider-btn button" target="_blank">+</a>
             </div>
         </td>
     </tr>
