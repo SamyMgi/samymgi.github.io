@@ -1,20 +1,20 @@
-# Samy M.
+# Samy M
 
 ## About me
 
----
+<hr style="height: 1px; background-color: black;">
 
 Text about me...
 
 ## Showcase
 
-<hr style="height: 1px; background-color: #407ab4;">
+<hr style="height: 1px; background-color: black;">
 
 <table>
     <tr>
         <td style="vertical-align:middle;">
             <div style="text-align:center;">
-                <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:12px;">
+                <span style="background-color:#8e44ad; color:white; padding:3px 8px; border-radius:6px; font-size:16px;">
                     Pop Culture
                 </span>
             </div>
