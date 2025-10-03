@@ -29,8 +29,7 @@ Text about me...
                 <br>
             </p>
             <div style="text-align:center;">
-                <button class="slider-btn">+</button>
-                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheBig3-AnimeRatingsBreakdown/TheBig3" class="slider-btn button" target="_blank">+</a>
+                <a href="https://public.tableau.com/app/profile/samy.m6642/viz/TheBig3-AnimeRatingsBreakdown/TheBig3" target="_blank">View full viz</a>
             </div>
         </td>
     </tr>
