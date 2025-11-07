@@ -2,7 +2,9 @@
 
 ## About me
 
-Text about me...
+Data Scientist & Analyst passionate about exploring data and solving real-world problems.  
+<br>
+I enjoy making data accessible, understandable, and interactive through clear visualizations and actionable insights.
 
 ## Showcase
 
@@ -84,11 +86,13 @@ Text about me...
     </tr>
 </table>
 
-## Contact
+## Contact/Links
 
 ---
 
-Contact links...
+- [GitHub](https://github.com/SamyMgi)  
+- [Tableau Public](https://public.tableau.com/app/profile/samy.m6642/vizzes)  
+- [LinkedIn]()  
 
 <script>
 document.querySelectorAll('.slider').forEach(slider => {
